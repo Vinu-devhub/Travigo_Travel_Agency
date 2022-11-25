@@ -69,7 +69,7 @@
   }
 
   .nav-default {
-    @apply flex items-center justify-center fixed h-[12vh] top-0 left-0 right-0 transition ease-out duration-75;
+    @apply flex items-center justify-center fixed h-[9vh] top-0 left-0 right-0 transition ease-out duration-75;
   }
 
   .nav-sticky {
