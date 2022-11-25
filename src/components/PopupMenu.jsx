@@ -14,7 +14,7 @@ const PopupMenu = ({navlinks, popupState}) => {
                 ))
             }
             <li>
-                <button type='button' className='button-light sm:w-auto shadow-slate-300 rounded-lg'>Join Us</button>
+                <button type='button' className='button-light lg:text-base sm:w-auto shadow-slate-300 rounded-lg'>Join Us</button>
             </li>
         </ul>
     </nav>
