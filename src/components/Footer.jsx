@@ -30,7 +30,7 @@ const Footer = ({footerAPI : {titles, links, sociallinks}}) => {
         <div className='w-7/12 lg:w-[95vw] m-auto mt-9'>
           <div className='h-[0.1vh] bg-black/30 my-7 md:my-5'></div>
           <div className='flex items-center justify-between px-7 md:px-0 md:gap-5 md:flex-col-reverse'>
-            <p className='text-sm md:text-center'>Copyright &copy; {year} by Travigo. All rights reserved.</p>
+            <p className='text-sm md:text-center'>Copyright &copy; {year} by Travigo. <span className='md:block'>All rights reserved.</span> </p>
             <div className='flex items-center gap-3 '>
               {
                 sociallinks?.map((item, ind) => (

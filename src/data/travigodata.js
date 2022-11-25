@@ -58,11 +58,11 @@ export const hero = {
 export const memory = {
   title: "Sweet Memories",
   subtitle: "Come To Life Again",
-  text: "What we have always taken care for 10 years is always prioritizing the comfort of our users. So, don't doubt our quality.",
+  text: "What we have always taken care for 10 years is always prioritizing the comfort of our users. So, don't worry about our quality.",
   img: memoryimg,
   experience: [
     { number: "10", title: "Year Experience" },
-    { number: "400", title: "Destination Collaboration" },
+    { number: "400", title: "Hotels Collaboration" },
     { number: "30k+", title: "Happy Customer" },
   ],
 };
